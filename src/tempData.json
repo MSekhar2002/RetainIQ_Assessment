@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "Product Filter": "Filter1",
+      "Primary Varient": "Image"
+    },
+    {
+      "id": "2",
+      "Product Filter": "Filter2",
+      "Primary Varient": "Image"
+    },
+    {
+      "id": "3",
+      "Product Filter": "Filter3",
+      "Primary Varient": "Image"
+    }
+  ]
+}

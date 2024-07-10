@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 100vw;
+  min-height:100vh;
+}
+.table-hover tbody tr:hover .delete-btn {
+  visibility: visible;
+}
+
+.delete-btn {
+  visibility: hidden;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+}
